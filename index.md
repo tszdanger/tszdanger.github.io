@@ -11,7 +11,7 @@ Email:  skywf.lzj@gmail.com
 ## Newest Project
 1. You are welcomed to view our code on the compiler for sys 2020.
 欢迎来尝试我们在2020全国系统能力大赛，编译器大赛中设计的编译器（全国二等奖）
-https://github.com/nzh63/syc - automatic!
+https://github.com/nzh63/syc 
 [GitHub](https://github.com/nzh63/syc)
 2. 正在设计一个python的语言分析器
 
