@@ -2,10 +2,10 @@
 ## Welcome to Zongjie Li Page
 
 This is Zongjie Li personal page
-Now I'm looking for a place in Ph.D. 
-目前正在寻找读博的老师
+Now I'm looking for some crasy ideas.
 Email:  skywf.lzj@gmail.com 
 
+这是宗杰的个人主页，我正在寻找一些有趣的方向扩展我的研究，如果你有什么想法欢迎随时和我联系
 
 
 ## Newest Project
@@ -13,7 +13,8 @@ Email:  skywf.lzj@gmail.com
 欢迎来尝试我们在2020全国系统能力大赛，编译器大赛中设计的编译器（全国二等奖）
 https://github.com/nzh63/syc 
 [GitHub](https://github.com/nzh63/syc)
-2. 正在设计一个python的语言分析器
+2. target on a research for fuzzing
+3. some basic paper reading skills
 
 ## EDUCATION & ACADEMIC VISITINGS 
 Harbin Institute of Technology, Shenzhen, GD, China          
@@ -42,7 +43,7 @@ Jul. 2020 – Present
 5. The Second Prize of National AI Innovation Conference, Chinese Association for Artificial Intelligence,2019
 6. The Second Prize of National Undergraduate Mathematical Modeling Contest, China Society for Applied Mathematics,2019
 7. The Third prize of the AI & Security Cluster of Summer Workshop, National University of Singapore,2019
-8. National Scholarship, Ministry of Education, People's Republic of China,2018
+8. National Scholarship, Ministry of Education, People's Republic of China,2018&2020
 9. The Second Prize of National English Competition for College Students, Foreign Language Education Committee,2018
 10. The Second Prize of Mathematics Competition of Chinese College Students, China Mathematics Committee,2018  
 
@@ -69,9 +70,14 @@ School of Computing, NUS, Singapore
 Undergraduate Research Assistant     
 Advisor: Dr. Colin TAN      Jun. 2019 – Jul. 2019 
 
+4. Program Dependence Graph-Based neural network for code search, Cooperated with Wenchao, GU
+Computer Science and Engineering department, CUHK 
+Undergraduate Research Assistant 
 
-##  PUBLICATIONS 
-to be updated
+
+##  PUBLICATIONS & PATENTS
+Wenchao Gu, Zongjie Li, Cuiyun Gao, Chaozheng Wang, and Michael R. Lyu,Fellow, IEEE, CRaDLe: Deep Code Retrieval Based on Semantic Dependency Learning (submitted to IEEE Transactions on Knowledge and Data Engineering) Yuanhang Yang, Yuteng Hou, Weijia Chen, Zongjie Li, Chaozheng Wang, Sirius Blockchain Medical Information Statistics System. License Number: 2019SR1374191. First Post on Oct. 9 2019. 
+Zongjie Li, Yanfengxu Sun, Siyao Liu, Binglin Song. A laptop pallet for heat dissipation and lighting. Patent Number: 2016207726729. Post on Aug. 28 2017 
 
 ## PRESENT IDEAS
 
