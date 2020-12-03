@@ -7,14 +7,22 @@ Email:  skywf.lzj@gmail.com
 
 这是宗杰的个人主页，我正在寻找一些有趣的方向扩展我的研究，如果你有什么想法欢迎随时和我联系
 
+##  PUBLICATIONS & PATENTS
+Wenchao Gu, Zongjie Li, Cuiyun Gao, Chaozheng Wang, and Michael R. Lyu,Fellow, IEEE, CRaDLe: Deep Code Retrieval Based on Semantic Dependency Learning[paper here] (https://arxiv.org/abs/2012.01028)
+Yuanhang Yang, Yuteng Hou, Weijia Chen, Zongjie Li, Chaozheng Wang, Sirius Blockchain Medical Information Statistics System. License Number: 2019SR1374191. First Post on Oct. 9 2019. 
+Zongjie Li, Yanfengxu Sun, Siyao Liu, Binglin Song. A laptop pallet for heat dissipation and lighting. Patent Number: 2016207726729. Post on Aug. 28 2017 
+
+
 
 ## Newest Project
-1. You are welcomed to view our code on the compiler for sys 2020.
+Code Search Target
+target on a research for fuzzing
+You are welcomed to view our code on the compiler for sys 2020.
 欢迎来尝试我们在2020全国系统能力大赛，编译器大赛中设计的编译器（全国二等奖）
 https://github.com/nzh63/syc 
 [GitHub](https://github.com/nzh63/syc)
-2. target on a research for fuzzing
-3. some basic paper reading skills
+
+
 
 ## EDUCATION & ACADEMIC VISITINGS 
 Harbin Institute of Technology, Shenzhen, GD, China          
@@ -75,9 +83,6 @@ Computer Science and Engineering department, CUHK
 Undergraduate Research Assistant 
 
 
-##  PUBLICATIONS & PATENTS
-Wenchao Gu, Zongjie Li, Cuiyun Gao, Chaozheng Wang, and Michael R. Lyu,Fellow, IEEE, CRaDLe: Deep Code Retrieval Based on Semantic Dependency Learning (submitted to IEEE Transactions on Knowledge and Data Engineering) Yuanhang Yang, Yuteng Hou, Weijia Chen, Zongjie Li, Chaozheng Wang, Sirius Blockchain Medical Information Statistics System. License Number: 2019SR1374191. First Post on Oct. 9 2019. 
-Zongjie Li, Yanfengxu Sun, Siyao Liu, Binglin Song. A laptop pallet for heat dissipation and lighting. Patent Number: 2016207726729. Post on Aug. 28 2017 
 
 ## PRESENT IDEAS
 
