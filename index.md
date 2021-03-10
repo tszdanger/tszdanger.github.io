@@ -2,12 +2,13 @@
 ## Welcome to Zongjie Li Page
 
 This is Zongjie Li personal page
-Now I'm looking for some crasy ideas.
 Email:  skywf.lzj@gmail.com 
 
-这是宗杰的个人主页，我正在寻找一些有趣的方向扩展我的研究，如果你有什么想法欢迎随时和我联系
+这是宗杰的个人主页
 
 ##  PUBLICATIONS & PATENTS
+[xxxxxx] submitted to FSE 2021
+[xxxxxx] submitted to ijcai 2021
 Wenchao Gu, Zongjie Li, Cuiyun Gao, Chaozheng Wang, and Michael R. Lyu,Fellow, IEEE, CRaDLe: Deep Code Retrieval Based on Semantic Dependency Learning[paper here] (https://arxiv.org/abs/2012.01028)
 Yuanhang Yang, Yuteng Hou, Weijia Chen, Zongjie Li, Chaozheng Wang, Sirius Blockchain Medical Information Statistics System. License Number: 2019SR1374191. First Post on Oct. 9 2019. 
 Zongjie Li, Yanfengxu Sun, Siyao Liu, Binglin Song. A laptop pallet for heat dissipation and lighting. Patent Number: 2016207726729. Post on Aug. 28 2017 
@@ -40,21 +41,29 @@ August 3-9, 2020, Saarbrücken, Germany
 ## INTERN
 
 Computing Vision Intern, Vertical Platform and Software Validation, Intel, Shenzhen     
-Jul. 2020 – Present 
+Jul. 2020 – Jan. 2021
+
+Research Intern, Keen Lab, Tencent, Shanghai
+Mar. 2021 - present
 
 ## HONORS & AWARDS
 
 1. The Second Prize of National College Students' computer system ability competition -- compiling system design competition,2020
+全国编译器大赛（华为bisheng杯）二等奖
 2. The Third Prize of National energy conservation and emission reduction  competition, Department of higher education,2020
-3. Provincial Excellent Undergraduate, Youth League of Guangdong Province,2019
-4. Merit Students, Harbin Institute of Technology ,2019
-5. The Second Prize of National AI Innovation Conference, Chinese Association for Artificial Intelligence,2019
+全国节能减排大赛三等奖
+3. The Second Prize of National AI Innovation Conference, Chinese Association for Artificial Intelligence,2019
+全国AI创新创业大会二等奖
 6. The Second Prize of National Undergraduate Mathematical Modeling Contest, China Society for Applied Mathematics,2019
+全国大学生数学建模竞赛二等奖
 7. The Third prize of the AI & Security Cluster of Summer Workshop, National University of Singapore,2019
+不知道怎么翻译
 8. National Scholarship, Ministry of Education, People's Republic of China,2018&2020
+国奖
 9. The Second Prize of National English Competition for College Students, Foreign Language Education Committee,2018
+英语竞赛二等奖
 10. The Second Prize of Mathematics Competition of Chinese College Students, China Mathematics Committee,2018  
-
+数学竞赛二等奖
 
 ## COURSE WORK & SOFTWARE
  Computer Skills:
