@@ -8,7 +8,9 @@ Email:  skywf.lzj@gmail.com
 
 ##  PUBLICATIONS & PATENTS
 [xxxxxx] submitted to FSE 2021
+
 [xxxxxx] submitted to ijcai 2021
+
 Wenchao Gu, Zongjie Li, Cuiyun Gao, Chaozheng Wang, and Michael R. Lyu,Fellow, IEEE, CRaDLe: Deep Code Retrieval Based on Semantic Dependency Learning[paper here] (https://arxiv.org/abs/2012.01028)
 Yuanhang Yang, Yuteng Hou, Weijia Chen, Zongjie Li, Chaozheng Wang, Sirius Blockchain Medical Information Statistics System. License Number: 2019SR1374191. First Post on Oct. 9 2019. 
 Zongjie Li, Yanfengxu Sun, Siyao Liu, Binglin Song. A laptop pallet for heat dissipation and lighting. Patent Number: 2016207726729. Post on Aug. 28 2017 
@@ -42,9 +44,11 @@ August 3-9, 2020, Saarbrücken, Germany
 
 Computing Vision Intern, Vertical Platform and Software Validation, Intel, Shenzhen     
 Jul. 2020 – Jan. 2021
+英特尔（深圳）实习生
 
 Research Intern, Keen Lab, Tencent, Shanghai
 Mar. 2021 - present
+腾讯科恩实验室实习生
 
 ## HONORS & AWARDS
 
@@ -94,6 +98,21 @@ Undergraduate Research Assistant
 
 
 ## PRESENT IDEAS
+
+
+
+
+## COMMERCIAL INFO
+
+1. ~~接小程序应用开发~~
+2. ~~小型商用服务器后台开发~~
+3. ~~DJ抢mt脚本开发~~
+4. 欢迎留学唠嗑
+5. 商用APP破解可接
+6. 亲故BUDDY请直接私信
+
+
+
 
 
 
