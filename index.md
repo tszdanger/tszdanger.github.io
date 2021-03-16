@@ -99,6 +99,7 @@ Undergraduate Research Assistant
 
 ## PRESENT IDEAS
 
+binary code
 
 
 
