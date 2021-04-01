@@ -20,7 +20,9 @@ Mar. 2021 - present
 **Enriching Query Semantics for Code Search with Reinforcement Learning** submitted to ijcai 2021
 
 Wenchao Gu, Zongjie Li, Cuiyun Gao, Chaozheng Wang, and Michael R. Lyu,Fellow, IEEE, CRaDLe: Deep Code Retrieval Based on Semantic Dependency Learning[paper here] (https://arxiv.org/abs/2012.01028)
+
 Yuanhang Yang, Yuteng Hou, Weijia Chen, Zongjie Li, Chaozheng Wang, Sirius Blockchain Medical Information Statistics System. License Number: 2019SR1374191. First Post on Oct. 9 2019. 
+
 Zongjie Li, Yanfengxu Sun, Siyao Liu, Binglin Song. A laptop pallet for heat dissipation and lighting. Patent Number: 2016207726729. Post on Aug. 28 2017 
 
 
