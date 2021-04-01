@@ -8,10 +8,12 @@ Email:  skywf.lzj@gmail.com
 
 Computing Vision Intern, Vertical Platform and Software Validation, Intel, Shenzhen     
 Jul. 2020 – Jan. 2021
+
 英特尔（深圳）实习生
 
 Research Intern, Keen Lab, Tencent, Shanghai
 Mar. 2021 - present
+
 腾讯科恩实验室实习生
 
 ##  PUBLICATIONS & PATENTS
