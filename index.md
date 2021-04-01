@@ -4,12 +4,20 @@
 This is Zongjie Li personal page
 Email:  skywf.lzj@gmail.com 
 
-这是宗杰的个人主页
+## INTERN
+
+Computing Vision Intern, Vertical Platform and Software Validation, Intel, Shenzhen     
+Jul. 2020 – Jan. 2021
+英特尔（深圳）实习生
+
+Research Intern, Keen Lab, Tencent, Shanghai
+Mar. 2021 - present
+腾讯科恩实验室实习生
 
 ##  PUBLICATIONS & PATENTS
-[xxxxxx] submitted to FSE 2021
+**HiTyper: A Hybrid Static Type Inference Frameworkwith Neural Prediction** submitted to FSE 2021
 
-[xxxxxx] submitted to ijcai 2021
+**Enriching Query Semantics for Code Search with Reinforcement Learning** submitted to ijcai 2021
 
 Wenchao Gu, Zongjie Li, Cuiyun Gao, Chaozheng Wang, and Michael R. Lyu,Fellow, IEEE, CRaDLe: Deep Code Retrieval Based on Semantic Dependency Learning[paper here] (https://arxiv.org/abs/2012.01028)
 Yuanhang Yang, Yuteng Hou, Weijia Chen, Zongjie Li, Chaozheng Wang, Sirius Blockchain Medical Information Statistics System. License Number: 2019SR1374191. First Post on Oct. 9 2019. 
@@ -40,15 +48,7 @@ Jan. 2019 – Feb. 2019 Exchange Program of 2019 Summer, Research Area: IoT and 
 The Cornell, Maryland, Max Planck Pre-doctoral Research School 2020     
 August 3-9, 2020, Saarbrücken, Germany
 
-## INTERN
 
-Computing Vision Intern, Vertical Platform and Software Validation, Intel, Shenzhen     
-Jul. 2020 – Jan. 2021
-英特尔（深圳）实习生
-
-Research Intern, Keen Lab, Tencent, Shanghai
-Mar. 2021 - present
-腾讯科恩实验室实习生
 
 ## HONORS & AWARDS
 
