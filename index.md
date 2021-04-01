@@ -21,7 +21,7 @@ Mar. 2021 - present
 
 **Enriching Query Semantics for Code Search with Reinforcement Learning** submitted to ijcai 2021
 
-Wenchao Gu, Zongjie Li, Cuiyun Gao, Chaozheng Wang, and Michael R. Lyu,Fellow, IEEE, CRaDLe: Deep Code Retrieval Based on Semantic Dependency Learning[paper here] (https://arxiv.org/abs/2012.01028)
+Wenchao Gu, Zongjie Li, Cuiyun Gao, Chaozheng Wang, and Michael R. Lyu,Fellow, IEEE, CRaDLe: Deep Code Retrieval Based on Semantic Dependency Learning[accepted by NN] (https://arxiv.org/abs/2012.01028)
 
 Yuanhang Yang, Yuteng Hou, Weijia Chen, Zongjie Li, Chaozheng Wang, Sirius Blockchain Medical Information Statistics System. License Number: 2019SR1374191. First Post on Oct. 9 2019. 
 
